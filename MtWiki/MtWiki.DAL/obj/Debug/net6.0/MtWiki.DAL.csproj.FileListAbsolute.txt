@@ -1,0 +1,14 @@
+D:\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.deps.json
+D:\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.runtimeconfig.json
+D:\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.dll
+D:\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.pdb
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.csproj.AssemblyReference.cache
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.AssemblyInfoInputs.cache
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.AssemblyInfo.cs
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.csproj.CoreCompileInputs.cache
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.dll
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\refint\MtWiki.DAL.dll
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.pdb
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.genruntimeconfig.cache
+D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\ref\MtWiki.DAL.dll

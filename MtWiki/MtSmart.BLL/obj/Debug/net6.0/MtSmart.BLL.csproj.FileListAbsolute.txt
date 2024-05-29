@@ -1,0 +1,17 @@
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtSmart.BLL.deps.json
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtSmart.BLL.runtimeconfig.json
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtSmart.BLL.dll
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtSmart.BLL.pdb
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtWiki.DAL.dll
+D:\MtWiki\MtWiki\MtSmart.BLL\bin\Debug\net6.0\MtWiki.DAL.pdb
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.csproj.AssemblyReference.cache
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.AssemblyInfoInputs.cache
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.AssemblyInfo.cs
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.csproj.CoreCompileInputs.cache
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.csproj.CopyComplete
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.dll
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\refint\MtSmart.BLL.dll
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.pdb
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\MtSmart.BLL.genruntimeconfig.cache
+D:\MtWiki\MtWiki\MtSmart.BLL\obj\Debug\net6.0\ref\MtSmart.BLL.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oAB8sK+M8tbw1Gzts3TA5W2eVWnXIrPAwCF4cHBccxcNyrvvqVk9YLXMykwA3wlt/6p9ImRpJcWmMAXXmpwrcQ==",
+  "dgSpecHash": "44JATWxI0hIXGOq8uqM0+SCKnV6JlWeJgj/kPFq0hzOJMaVrgE8tXMw1zrjtwghP4YcndKn5QBRjL+1UFf/XhQ==",
   "success": true,
-  "projectFilePath": "D:\\MtWiki\\MtWiki\\MtWiki.Import\\MtWiki.Import.csproj",
+  "projectFilePath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.Import\\MtWiki.Import.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgen\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
@@ -30,6 +30,7 @@
     "C:\\Users\\evgen\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\evgen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\npgsql\\7.0.7\\npgsql.7.0.7.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.18\\npgsql.entityframeworkcore.postgresql.7.0.18.nupkg.sha512",

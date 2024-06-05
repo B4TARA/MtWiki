@@ -16,6 +16,8 @@ namespace MtWiki.DAL.Entities
         [Required(ErrorMessage = "The Value CuratorPosition is required.")]
         public string CuratorPosition { get; set; }
 
+        public string? CuratorImagePath { get; set; }
+
 
         public List<Department> SubordinateDepartments { get; set; } = new();
         public List<LeadershipPosition> SubordinateLeadershipPositions { get; set; } = new();

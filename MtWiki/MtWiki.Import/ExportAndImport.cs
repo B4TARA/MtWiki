@@ -3,7 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using MtWiki.DAL;
 using MtWiki.DAL.Entities;
 using MtWiki.DAL.Repositories;
+using MtWiki.Import.Utils;
+using Newtonsoft.Json.Linq;
 using NLog;
+using System.Xml;
 
 namespace MtWiki.Import
 {
@@ -17,14 +20,17 @@ namespace MtWiki.Import
             _options = options;
         }
 
-        public async Task TransferEmployeesFromExcelToDatabase(string path)
+        public async Task TransferEmployeesFromExcelToDatabase(string employeesPath, string colsArrayPath, string userImgDownloadPath)
         {
             try
             {
-                var employeesFromExcel = ReadEmployeesFromExcel(path);
+                var employeesFromExcel = ReadEmployeesFromExcel(employeesPath);
 
                 // Удаляем уволенных сотрудников из БД
                 await RemoveNonActiveUsers(employeesFromExcel);
+
+                // Заполняем добавочные данные сотрудника из внешнего файла xml
+                PopulateUsersWithXmlData(employeesFromExcel, colsArrayPath, userImgDownloadPath);
 
                 // Добавляем новых или обновляем существующих сотрудников в БД
                 await UpdateOrCreateEmployeesInDatabase(employeesFromExcel);
@@ -73,6 +79,35 @@ namespace MtWiki.Import
             }
 
             return employeesFromExcel;
+        }
+
+        private void PopulateUsersWithXmlData(List<Employee> employeesFromExcel, string colsArrayPath, string userImgDownloadPath)
+        {
+            var xmlDocument1 = new XmlDocument();
+            xmlDocument1.Load(colsArrayPath);
+
+            foreach (var userFromExcel in employeesFromExcel)
+            {
+                var parts = userFromExcel.EmployeeName.Split(' ');
+                var firstName = parts[0];
+                var lastName = parts.Length > 1 ? parts[1] : "";
+                var middleName = parts.Length > 2 ? parts[2] : "";
+
+                var xpath = $"//value[contains(., '{firstName}') and contains(., '{lastName}') and contains(., '{middleName}')]";
+
+                var userNode1 = xmlDocument1.SelectSingleNode(xpath);
+
+                if (userNode1 != null)
+                {
+                    var obj = JObject.Parse(userNode1.InnerText);
+
+                    var base64Image = (string)obj["pict_url"];
+                    var fileName = userFromExcel.EmployeeName.Replace(" ", "");
+                    var imagePath = ImageUtilities.SaveBase64Image(base64Image, fileName, userImgDownloadPath);
+
+                    userFromExcel.EmployeeImagePath = imagePath;
+                }              
+            }
         }
 
         private async Task UpdateOrCreateEmployeesInDatabase(List<Employee> employeesFromExcel)

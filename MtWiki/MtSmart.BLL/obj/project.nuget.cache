@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmPmFzRbAiy6i1YU6cuFh6P884EhMIebGUVjcbCeE65GkTwWjZc2dWSSkv0c0HMOtNgDDIY9YJrtWQ2JZul4wA==",
+  "dgSpecHash": "EL42aTOJdz+QsR9S6D66AscGTAEIbJPtMK9B1E/OYE2xJQOUK35Him10R4IHAliGq2gWP2vro7Al2ClCKrcBNA==",
   "success": true,
-  "projectFilePath": "D:\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj",
+  "projectFilePath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LNkWEuQKgxCW+/q/Nq7cNQURfVJdesrSg7ljA65e8BOFJhSwkGxmZ8Sw8oIiKh71Q0/Tppsj85oNhirKgX8f+Q==",
+  "dgSpecHash": "8Is184TLtW6K23V4wZYFXLUWG4busqQHjDdgfIw03WmDSmjptTBVfcA0WL4d2Yd2kiW9iZlu5VyLhB0kvqijkg==",
   "success": true,
-  "projectFilePath": "D:\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
+  "projectFilePath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgen\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

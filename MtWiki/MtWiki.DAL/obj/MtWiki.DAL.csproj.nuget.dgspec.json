@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj": {}
+    "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj": {}
   },
   "projects": {
-    "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj": {
+    "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
         "projectName": "MtWiki.DAL",
-        "projectPath": "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
+        "projectPath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
         "packagesPath": "C:\\Users\\evgen\\.nuget\\packages\\",
-        "outputPath": "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\obj\\",
+        "outputPath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\evgen\\AppData\\Roaming\\NuGet\\NuGet.Config",

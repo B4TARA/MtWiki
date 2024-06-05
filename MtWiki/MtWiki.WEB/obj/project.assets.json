@@ -2314,11 +2314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
+      "projectUniqueName": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
       "projectName": "MtWiki.WEB",
-      "projectPath": "D:\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
+      "projectPath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.WEB\\MtWiki.WEB.csproj",
       "packagesPath": "C:\\Users\\evgen\\.nuget\\packages\\",
-      "outputPath": "D:\\MtWiki\\MtWiki\\MtWiki.WEB\\obj\\",
+      "outputPath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.WEB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evgen\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2336,8 +2336,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj": {
-              "projectPath": "D:\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj"
+            "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj": {
+              "projectPath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtSmart.BLL\\MtSmart.BLL.csproj"
             }
           }
         }

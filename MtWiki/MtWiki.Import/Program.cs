@@ -10,9 +10,11 @@ internal class Program
     {
         DateTime debugToday = DateTime.Today;
 
-        var _config = new ConfigurationBuilder().AddJsonFile("D:\\MTWiki\\Configuration\\appsettings.json", optional: false, reloadOnChange: true).Build();
+        var _config = new ConfigurationBuilder().AddJsonFile("C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\Configuration\\appsettings.json", optional: false, reloadOnChange: true).Build();
 
-        var _usersPath = _config["FilePaths:UsersPath"];
+        var _employeessPath = _config["FilePaths:EmployeesPath"];
+        var _colsArrayPath = _config["FilePaths:ColsArrayPath"];
+        var _employeesImgPath = _config["FilePaths:EmployeesImgDownloadPath"];
 
         var _nlogConfigPath = _config["FilePaths:NLogConfigPath"];
         LogManager.Configuration = new NLog.Config.XmlLoggingConfiguration(_nlogConfigPath);
@@ -23,6 +25,6 @@ internal class Program
         var _options = _optionsBuilder.UseNpgsql(_dbConnectionString).Options;
 
         var importer = new ExportAndImport(_options);
-        importer.TransferEmployeesFromExcelToDatabase(_usersPath).Wait();
+        importer.TransferEmployeesFromExcelToDatabase(_employeessPath, _colsArrayPath, _employeesImgPath).Wait();
     }
 }

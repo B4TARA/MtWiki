@@ -12,3 +12,17 @@ D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\refint\MtWiki.DAL.dll
 D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.pdb
 D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.genruntimeconfig.cache
 D:\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\ref\MtWiki.DAL.dll
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.deps.json
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.runtimeconfig.json
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.dll
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\bin\Debug\net6.0\MtWiki.DAL.pdb
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.csproj.AssemblyReference.cache
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.AssemblyInfoInputs.cache
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.AssemblyInfo.cs
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.csproj.CoreCompileInputs.cache
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.dll
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\refint\MtWiki.DAL.dll
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.pdb
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\MtWiki.DAL.genruntimeconfig.cache
+C:\Users\evgen\OneDrive\Документы\GitHub\MtWiki\MtWiki\MtWiki.DAL\obj\Debug\net6.0\ref\MtWiki.DAL.dll

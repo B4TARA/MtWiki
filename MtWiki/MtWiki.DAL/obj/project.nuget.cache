@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sDTYCsbjV3I3GSC5T7Dw3r1k42Usg4BE7yQaKHfsPNMBRgkRfxvZkyEflIg4dAJE58ewDNDCJy/27Ii2btbIuQ==",
+  "dgSpecHash": "37CQPVoc38ax+E9eWB3ZOqH+CWsy0cfJIrzdMgD7tyT/7/9K9aqza3sD4j0RDxVMpNvN6UZGTAx2qsNyVqiQ/w==",
   "success": true,
-  "projectFilePath": "D:\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
+  "projectFilePath": "C:\\Users\\evgen\\OneDrive\\Документы\\GitHub\\MtWiki\\MtWiki\\MtWiki.DAL\\MtWiki.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgen\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\evgen\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

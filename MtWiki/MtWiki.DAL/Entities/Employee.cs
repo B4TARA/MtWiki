@@ -29,6 +29,8 @@ namespace MtWiki.DAL.Entities
         [Required(ErrorMessage = "The Value EmployeeRole is required.")]
         public Roles EmployeeRole { get; set; }
 
+        public string? EmployeeImagePath { get; set; }
+
 
         public int? DepartmentId { get; set; }
         public Department? Department { get; set; }

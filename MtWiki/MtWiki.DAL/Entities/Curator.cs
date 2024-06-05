@@ -7,6 +7,9 @@ namespace MtWiki.DAL.Entities
         [Key]
         public int Id { get; set; }
 
+        [Required(ErrorMessage = "The Value IndexNumber is required.")]
+        public int IndexNumber { get; set; }
+
         [Required(ErrorMessage = "The Value CuratorServiceNumber is required.")]
         public int CuratorServiceNumber { get; set; }
 

@@ -8,5 +8,8 @@ namespace MtSmart.BLL.DTO
 
         public string EmployeeName { get; set; }
         public Roles EmployeeRole { get; set; }
+
+
+        public string? EmployeeImagePath { get; set; }
     }
 }
